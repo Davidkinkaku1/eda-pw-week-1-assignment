@@ -3,9 +3,11 @@ body{
   }/* Give your page a fun background color */
 header{
   color: #132A37;
+  background-color: grey;
 }
 footer{
   color: #584416;
+  background-color: grey;
 }
 /* Make the header and footer a different color from the background */
 h1 {
